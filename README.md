@@ -1,6 +1,6 @@
 # Automatic Number Plate Recognition using Python and YOLOv8
 
-![Project Image](path_to_your_image.png)
+![Project Image](sample.png)
 
 ## Overview
 This project implements an **Automatic Number Plate Recognition (ANPR)** system using Python and YOLOv8. The system processes video files to detect moving vehicles, extracts the license plates, and reads the plate numbers. The detected information is then stored in a CSV file, and the results are visualized by drawing bounding boxes around vehicles and license plates in the video.
